@@ -2,8 +2,7 @@
   <h1>Sun Qi</h1>
 
   <p>
-    Data Science undergraduate at SUSTech<br />
-    Building machine learning systems, LLM agents, and reproducible data pipelines
+    Data Science undergraduate at SUSTech
   </p>
 
   <p>
