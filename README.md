@@ -2,10 +2,6 @@
   <h1>Sun Qi | 孙祺</h1>
 
   <p>
-    <a href="#zh-cn">中文</a> | <a href="#en">English</a>
-  </p>
-
-  <p>
     Data Science undergraduate at SUSTech<br />
     数据科学与大数据技术本科生
   </p>
@@ -23,10 +19,8 @@
   </p>
 </div>
 
-<a id="zh-cn"></a>
-
 <details open>
-<summary><b>中文版本</b></summary>
+<summary><b>中文版本 / Chinese</b></summary>
 
 ## 关于我
 
@@ -80,10 +74,8 @@
 
 </details>
 
-<a id="en"></a>
-
 <details>
-<summary><b>English Version</b></summary>
+<summary><b>English Version / 英文版本</b></summary>
 
 ## About Me
 
