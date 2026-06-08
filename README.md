@@ -24,7 +24,7 @@
 - Interested in **large language models, agent systems, machine learning, deep learning, network science, and data engineering**.
 - Comfortable taking projects from data processing and modeling through evaluation, visualization, and usable system delivery.
 - Currently exploring post-training methods including **SFT, DPO, GRPO**, Transformer-based models, and multi-agent orchestration.
-- Beyond code, I enjoy city photography and specialty coffee.
+- Beyond work, I enjoy city photography and specialty coffee, I drink geisha to keep my mind lucid.
 
 ## Featured Projects
 
